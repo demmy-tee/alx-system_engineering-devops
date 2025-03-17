@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 relik relik 4096 Mar 17 10:51 .
+drwxr-xr-x 6 relik relik 4096 Mar 14 15:28 ..
+-rwxr-xr-x 1 relik relik   32 Mar 14 15:49 0-hello_world
+-rwxr-xr-x 1 relik relik   17 Mar 14 16:16 1-confused_smiley
+-rwxr-xr-x 1 relik relik   28 Mar 14 16:24 2-hellofile
+-rwxr-xr-x 1 relik relik   39 Mar 14 16:38 3-twofiles
+-rwxr-xr-x 1 relik relik   36 Mar 14 16:42 4-lastlines
+-rwxr-xr-x 1 relik relik   35 Mar 14 16:48 5-firstlines
+-rwxr-xr-x 1 relik relik   36 Mar 14 17:23 6-third_line
+-rwxr-xr-x 1 relik relik   80 Mar 17 10:17 7-file
+-rwxr-xr-x 1 relik relik   36 Mar 17 10:51 8-cwd_state
+-rw-r--r-- 1 relik relik   36 Mar 14 15:45 README.md
+-rw-r--r-- 1 relik relik   12 Mar 17 10:17 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 relik relik  916 Mar 14 16:53 iacta
+-rw-r--r-- 1 relik relik    0 Mar 17 10:51 ls_cwd_content
